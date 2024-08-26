@@ -88,7 +88,7 @@ const ManageAccount = () => {
 		<div className='min-h-screen flex flex-col justify-center items-center py-10 relative'>
 			<div className='flex flex-col justify-center items-center'>
 				<h1 className='text-white font-bold text-lg sm:text-3xl md:text-5xl'>
-					Who's Watching?
+					Who`s Watching?
 				</h1>
 
 				<ul className='flex flex-col items-center md:flex-row md:items-start p-0 my-5 md:my-10 gap-y-7 gap-x-5'>
