@@ -23,6 +23,7 @@ const Common = ({ moviesData }: Props) => {
 						<MovieRow
 							key={movie.title}
 							title={movie.title}
+							/*@ts-ignore*/
 							data={movie.data}
 						/>
 					))}
